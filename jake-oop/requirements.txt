@@ -1,0 +1,13 @@
+pytest
+
+# to install pytest
+#  - `python3 -m venv venv`
+#  - `source venv/bin/activate`
+#  - `pip install -r requirements`
+
+# `random` is a standard library, so we don't need to `pip install`
+#     - python standard library:  https://docs.python.org/3/library/
+#     - random is here:  https://docs.python.org/3/library/random.html
+#
+# `pytest` is not, so we need `pip install`.
+
